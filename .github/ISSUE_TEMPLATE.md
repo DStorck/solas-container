@@ -4,9 +4,10 @@
 
 | Component | Repo                                                                           |
 | --------- | ------------------------------------------------------------------------------ |
-| kraken    | [samsung-cnct/kraken](https://github.com/samsung-cnct/kraken/issues/new)         |
-| k2-charts | [samsung-cnct/k2-charts](https://github.com/samsung-cnct/k2-charts/issues/new) |
-| k2-tools  | [samsung-cnct/k2-tools](https://github.com/samsung-cnct/k2-tools/issues/new)   |
+| kraken    | [samsung-cnct/kraken](https://github.com/samsung-cnct/kraken/issues/new)       |
+| kraken-lib    | [samsung-cnct/kraken-lib](https://github.com/samsung-cnct/kraken-lib/issues/new)       |
+| kraken-charts | [samsung-cnct/k2-charts](https://github.com/samsung-cnct/k2-charts/issues/new) |
+| kraken-tools  | [samsung-cnct/k2-tools](https://github.com/samsung-cnct/kraken-tools/issues/new)   |
 
 **What keywords did you search in kraken issues before filing this one?** (If you have found any duplicates, you should instead reply there.):
 
